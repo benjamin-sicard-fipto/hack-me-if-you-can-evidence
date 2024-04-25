@@ -1,4 +1,4 @@
-name: hackathon_databricks
+name: databricks_hackathon
 type: databricks
 options:
   host: 3201773980218950.0.gcp.databricks.com

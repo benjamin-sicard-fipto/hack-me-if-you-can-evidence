@@ -1,5 +1,5 @@
 # This file was automatically generated
-name: hackathon_postgres
+name: postgres_hackathon
 type: postgres
 options:
   host: localhost
