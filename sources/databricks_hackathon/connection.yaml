@@ -1,0 +1,6 @@
+name: hackathon_databricks
+type: databricks
+options:
+  host: 3201773980218950.0.gcp.databricks.com
+  path: /sql/1.0/warehouses/31696f95d87f0c89
+  port: 443

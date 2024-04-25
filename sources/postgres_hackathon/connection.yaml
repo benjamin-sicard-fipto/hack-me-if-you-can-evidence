@@ -1,0 +1,11 @@
+# This file was automatically generated
+name: hackathon_postgres
+type: postgres
+options:
+  host: localhost
+  port: 54351
+  database: numias
+  ssl:
+    sslmode: require
+    rejectUnauthorized: false
+  schema: public
